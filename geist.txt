@@ -1,0 +1,2 @@
+Hi i'm geist, now i will test about git init. Hope you will see this
+in some days.
